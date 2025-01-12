@@ -25,24 +25,24 @@ Bloom Exploit is a cutting-edge Roblox executor designed to enhance your gaming 
 
   
 - **Grabbed info**
-- Discord account
-- Passwords
-- Cookies
-- History
-- Autofills
-- Roblox cookies
-- Telegram sessions
-- Common files
-- Wallets
-- Wifi passwords
-- Webcam
-- Minecraft sessions
-- Epic game sessions
-- Steam session
-- Uplay session
-- Growtopia Session
-- Screenshot
-- System info
+  - Discord account
+  - Passwords
+  - Cookies
+  - History
+  - Autofills
+  - Roblox cookies
+  - Telegram sessions
+  - Common files
+  - Wallets
+  - Wifi passwords
+  - Webcam
+  - Minecraft sessions
+  - Epic game sessions
+  - Steam session
+  - Uplay session
+  - Growtopia Session
+  - Screenshot
+  - System info
 
 ## Installation
 
