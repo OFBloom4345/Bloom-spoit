@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/downloads-8.2k-purple?style=flat-square"></a>
+  <a href="#"><img src="https://img.shields.io/badge/downloads-8.2k-purple?style=for-the-badge"></a>
 </p>
+
 
 
 ## Features
