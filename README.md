@@ -48,8 +48,18 @@
   - Screenshot
   - System Info
 
-## SETUP
-GO TO [Setup](https://github.com/OFBloom4345/Nexus-grabber/blob/main/Setup). for setup instructions 
+## Installation
+**[Download](https://www.python.org/downloads/) Python**
+<pre>
+Make sure you have Python 3.11+ installed and it is added to your path.
+</pre>
+**[Download](https://www.python.org/downloads/) The Files**
+
+
+
+
+
+
 
 ## License
 
