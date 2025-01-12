@@ -3,14 +3,10 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d6b04f86-c5c9-463b-8cb9-4ab8cb6884e9" alt="Luna Token Grabber" width="600">
 </p>
-<h1 align="center">Luna Token Grabber</h1>
 
 <p align="center">
-  <img src="path-to-your-image.png" alt="Luna Token Grabber" width="600">
-</p>
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/83312c10fc46f9c1d76cd31efd7b98abc86320f9c3b8a8c5c6495244ca1a79d5/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f536d75673234362f4c756e612d477261626265722f746f74616c3f636f6c6f723d366430306331" alt="Downloads Badge">
+  <img src="![68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f536d75673234362f4c756e612d477261626265722f746f74616c3f636f6c6f723d366430306331](https://github.com/user-attachments/assets/049f62b8-4614-4d30-9d4b-386d45517b18)
+" alt="Downloads Badge">
 </p>
 
 ## Features
