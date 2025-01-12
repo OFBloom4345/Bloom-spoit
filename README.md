@@ -48,6 +48,9 @@
   - Screenshot
   - System Info
 
+## SETUP
+GO TO [Setup](LICENSE). for setup instructions 
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
