@@ -49,7 +49,7 @@
   - System Info
 
 ## SETUP
-GO TO [Setup](LICENSE). for setup instructions 
+GO TO [Setup](https://github.com/OFBloom4345/Nexus-grabber/blob/main/Setup). for setup instructions 
 
 ## License
 
