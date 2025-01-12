@@ -6,17 +6,6 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/downloads-8.2k-purple?style=flat-square"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Stars-926-purple?style=flat-square"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Forks-404-purple?style=flat-square"></a>
-</p>
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/commit%20activity-0/week-lightgrey?style=flat-square"></a>
-  <a href="#"><img src="https://img.shields.io/badge/last%20commit-July%202024-lightgrey?style=flat-square"></a>
-  <a href="#"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square"></a>
-</p>
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/issues-60%20open-purple?style=flat-square"></a>
-  <a href="#"><img src="https://img.shields.io/badge/issues-729%20closed-purple?style=flat-square"></a>
 </p>
 
 
