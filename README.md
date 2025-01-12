@@ -1,10 +1,8 @@
 <h1 align="center">Nexus Grabber</h1>
 
 <p align="center">
-  <img src="![175369409-b967da5b-e373-48ea-b8f5-8ed3d613df03](https://github.com/user-attachments/assets/d6b04f86-c5c9-463b-8cb9-4ab8cb6884e9)" alt="Luna Token Grabber" width="600">
+  <img src="https://github.com/user-attachments/assets/d6b04f86-c5c9-463b-8cb9-4ab8cb6884e9" alt="Luna Token Grabber" width="600">
 </p>
-
-
 
 ## Features
 
