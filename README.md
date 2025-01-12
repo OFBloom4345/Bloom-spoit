@@ -10,12 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/downloads-8.2k-purple"></a>
-  <a href="#"><img src="https://img.shields.io/badge/stars-926-purple"></a>
-  <a href="#"><img src="https://img.shields.io/badge/forks-404-purple"></a>
-  <a href="#"><img src="https://img.shields.io/badge/commit%20activity-0/week-lightgrey"></a>
-  <a href="#"><img src="https://img.shields.io/badge/last%20commit-July%202024-lightgrey"></a>
-  <a href="#"><img src="https://img.shields.io/badge/license-MIT-green"></a>
+  <a href="#"><img src="https://camo.githubusercontent.com/83312c10fc46f9c1d76cd31efd7b98abc86320f9c3b8a8c5c6495244ca1a79d5/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f536d75673234362f4c756e612d477261626265722f746f74616c3f636f6c6f723d366430306331" alt="Downloads Badge"></a>
 </p>
 
 ## Features
