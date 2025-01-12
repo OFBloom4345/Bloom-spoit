@@ -13,14 +13,16 @@ Bloom Exploit is a cutting-edge Roblox executor designed to enhance your gaming 
   - Gpu
   - Product key
 
-- **IP Info**
- - IP
- - Region
- - Country
- - Timezone
- - Celular network
- - Proxy/Vpn
- - Reverse DNS
+- **System Info**
+  - IP
+  - Region
+  - Country
+  - Timezone
+  - Celular network
+  - Proxy/Vpn
+  - Reverse DNS
+
+
   
 - **Grabbed info**
 - Discord account
