@@ -4,11 +4,11 @@ Bloom Exploit is a cutting-edge Roblox executor designed to enhance your gaming 
 
 ## Features
 
-- **High Performance**: Optimized for fast and efficient script execution.
-- **Custom UI**: Intuitive and user-friendly design.
-- **Script Hub**: Access a library of preloaded scripts.
-- **Auto Update**: Ensures compatibility with the latest Roblox updates.
-- **Secure**: Anti-ban and anti-detection measures included.
+- **Discord Info**
+  - Token
+  - Nitro
+
+
 
 ## Installation
 
