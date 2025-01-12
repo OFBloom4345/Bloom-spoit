@@ -1,4 +1,4 @@
-<h1 align="center">Nexus Grabber</h1>
+<h1 align="center">Nexus Token Grabber</h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d6b04f86-c5c9-463b-8cb9-4ab8cb6884e9" alt="Luna Token Grabber" width="600">
