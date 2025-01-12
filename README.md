@@ -3,6 +3,20 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d6b04f86-c5c9-463b-8cb9-4ab8cb6884e9" alt="Luna Token Grabber" width="600">
 </p>
+<h1 align="center">Luna Token Grabber</h1>
+
+<p align="center">
+  <img src="path-to-your-image.png" alt="Luna Token Grabber" width="600">
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/downloads-8.2k-purple"></a>
+  <a href="#"><img src="https://img.shields.io/badge/stars-926-purple"></a>
+  <a href="#"><img src="https://img.shields.io/badge/forks-404-purple"></a>
+  <a href="#"><img src="https://img.shields.io/badge/commit%20activity-0/week-lightgrey"></a>
+  <a href="#"><img src="https://img.shields.io/badge/last%20commit-July%202024-lightgrey"></a>
+  <a href="#"><img src="https://img.shields.io/badge/license-MIT-green"></a>
+</p>
 
 ## Features
 
