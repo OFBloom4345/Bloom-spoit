@@ -1,6 +1,6 @@
 #Nexus grabber
 
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWk1aWJtbTZxbGNhaDBxMmZvOHdycnEzNGJ3c2IyMWJnM3RzNjl4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12oTlUqDjqhTUs/giphy.gif
+![pokemon-pikachu](https://github.com/user-attachments/assets/460ab932-5a5e-46ce-acb8-9bf1e8d2f83e)
 
 ## Features
 
